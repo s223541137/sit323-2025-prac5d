@@ -1,0 +1,6 @@
+.viminfo
+.git
+.gitignore
+node_modules
+Dockerfile
+*.log
